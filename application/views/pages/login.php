@@ -56,7 +56,7 @@
 
                 </div>
 
-                <input type="submit" value="Log In" class="btn btn-block btn-primary">
+                <input type="submit" value="Log In" class="btn btn-block btn-success">
 
                 <center class="mt-3">
                   <a href="<?= base_url('auth/register') ?>">Register</a>
